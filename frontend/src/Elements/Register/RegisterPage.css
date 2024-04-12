@@ -1,0 +1,24 @@
+.regpage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.titlereg{
+    font-size: 5vh;
+}
+.regdetails{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: start;
+}
+.labels{
+    margin-top: 2vh;
+   font-size: 3vh;
+}
+.inputs{
+    height: 3vh;
+}

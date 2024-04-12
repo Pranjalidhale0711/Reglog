@@ -1,0 +1,16 @@
+.NavBar{
+    display: flex;
+    background-color: rgb(142, 136, 136);
+    height: 7vh;
+    justify-content: flex-end;
+
+
+}
+.title{
+    margin: 1vw;
+    margin-right: 4vw;
+    font-size: large;
+    font-weight: 600;
+    background-color: rgb(142, 136, 136);
+    border-color: rgb(142, 136, 136);
+}

@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(214, 210, 210);
+}
+
+.loginpage{
+    display: flex;
+    flex-direction: column;
+   
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 5vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.form{
+    margin-top: 2vh;
+    display: flex;
+     flex-direction: column;
+    justify-content: flex-start;
+  
+}
+.label{
+    /* margin: 2vh; */
+    font-size: 3vh;
+    /* background-color: pink; */
+}
+.input1{
+    margin-top: 2vh;
+    height: 3vh;
+}
+.submitbtn{
+    margin-top: 2vh;
+    height: 5vh;
+    background-color: black;
+    color:  rgb(214, 210, 210);
+    font-size: 3vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.createacc{
+    font-size: 2vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
